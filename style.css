@@ -1,0 +1,113 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-color: #d3d3d3; 
+}
+
+h1, h2, h3 {
+    color: #333; 
+}
+
+/* Header */
+.custom-bg {
+    background-color: #069292;
+}
+#headertitle{
+    margin-bottom: 80px;
+}
+
+/* Search bar */
+#search-input {
+    width: 400px; 
+    margin-right: 10px; 
+}
+/* Destinations bar */
+#destinations{
+    background-color: #f8f9fa;
+    margin-top: 60px;
+    padding-bottom: 35px;
+    
+}
+#destinations h1{
+    padding-top: 35px;
+    font-weight: 600;
+    
+}
+
+/* Card Styles */
+.card {
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 40px;
+}
+.card:hover {
+    transform: scale(1.05); 
+}
+.card-img-top {
+    object-fit: cover; /* Ensures that the image covers its container */
+    height: 300px; 
+}
+.card-body {
+    text-align: left; 
+}
+.card-title{
+    font-weight: 800;
+}
+
+/* Modal Styles */
+#itinerary-modal {
+    padding: 20px; /* Add padding inside the modal */
+}
+
+.modal-header {
+    background-color: #f8f9fa; /* Light background for header */
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: space-between; /* Space out buttons in footer */
+}
+/* Create itinerary */
+#createtab p{
+    font-size: medium;
+}
+
+/* My collection */
+#collection{
+    background-color: #f8f9fa;
+    padding-top: 30px;
+}
+#collection h1{
+    font-weight: 700;
+}
+
+
+/* More Info Section */
+#moreinfo {
+    background-color: #838282; /* Darker background for footer info section */
+    color: azure;
+    padding-top: 30px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+#moreinfo nav {
+    margin-bottom: 10px;
+}
+
+#moreinfo a {
+    margin-right: 8px;
+}
+
+#moreinfo i {
+    margin-right: 10px;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #838282;
+    margin-bottom: 0%;
+    padding-bottom: 5px;
+}
+

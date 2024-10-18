@@ -1,0 +1,130 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "city": "Nairobi",
+            "country": "Kenya",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1680652044459-dabb90d99905?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmFpcm9iaSUyMGNpdHl8ZW58MHx8MHx8fDA%3D",
+            "description": "Nairobi is the vibrant capital of Kenya, known for its unique blend of urban life and wildlife experiences.",
+            "activities": [
+                "Visit Nairobi National Park for wildlife near the city.",
+                "Feed giraffes at the Giraffe Centre.",
+                "See baby elephants at the David Sheldrick Wildlife Trust.",
+                "Explore the Karen Blixen Museum.",
+                "Walk through the serene Karura Forest.",
+                "Watch cultural performances at the Bomas of Kenya.",
+                "Visit the Kazuri Beads Factory for handmade crafts.",
+                "Learn railway history at the Nairobi Railway Museum.",
+                "Shop and dine at The Village Market.",
+                "Indulge in game meats at Carnivore Restaurant.",
+                "Buy souvenirs at the Maasai Market.",
+                "Relax at the Nairobi Arboretum."
+            ]
+        },
+        {
+            "id": 2,
+            "city": "Zanzibar",
+            "country": "Tanzania",
+            "imageUrl": "https://images.unsplash.com/photo-1627899316397-3556313abd3d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHphbnppYmFyJTIwbWVsaWF8ZW58MHx8MHx8fDA%3D",
+            "description": "Zanzibar is an archipelago off the coast of Tanzania, famous for its stunning beaches and rich cultural heritage.",
+            "activities": [
+                "Wander through historic Stone Town.",
+                "Visit giant tortoises on Prison Island.",
+                "Relax on Nungwi Beach's white sands.",
+                "Spot monkeys in Jozani Forest.",
+                "Dine at the famous The Rock Restaurant.",
+                "Discover local flavors on a Spice Tour.",
+                "Enjoy street food at Forodhani Gardens Night Market.",
+                "Explore the House of Wonders museum.",
+                "Snorkel or dive at Mnemba Atoll.",
+                "Watch sunsets at Kendwa Beach.",
+                "Visit the Old Fort for local events.",
+                "Experience Darajani Market's lively atmosphere."
+            ]
+        },
+        {
+            "id": 3,
+            "city": "Dubai",
+            "country": "UAE",
+            "imageUrl": "https://images.unsplash.com/photo-1489516408517-0c0a15662682?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZHViYWl8ZW58MHx8MHx8fDA%3D",
+            "description": "Dubai is a modern metropolis known for luxury shopping, ultramodern architecture, and a lively nightlife scene.",
+            "activities": [
+                "Ascend the Burj Khalifa for city views.",
+                "Shop and explore at Dubai Mall.",
+                "Watch the Dubai Fountain's water show.",
+                "Experience a desert safari adventure.",
+                "Visit Palm Jumeirah's luxury spots.",
+                "Learn history at Dubai Museum.",
+                "Take a photo at Burj Al Arab.",
+                "Browse gold at the Deira Gold Souk.",
+                "Visit The Dubai Frame for skyline views.",
+                "Tour the beautiful Jumeirah Mosque.",
+                "Relax at La Mer Beach.",
+                "Go skydiving over Palm Jumeirah."
+            ]
+        },
+        {
+            "id": 4,
+            "city": "Rome",
+            "country": "Italy",
+            "imageUrl": "https://images.unsplash.com/photo-1509024644558-2f56ce76c490?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cm9tZXxlbnwwfHwwfHx8MA%3D%3D",
+            "description": "Rome is Italy's capital, known for its nearly 3,000 years of globally influential art, architecture, and culture.",
+            "activities": [
+                "Explore the ancient Colosseum.",
+                "Marvel at art in the Vatican Museums.",
+                "Visit St. Peter’s Basilica in Vatican City.",
+                "Toss a coin into the Trevi Fountain.",
+                "Visit the ancient Pantheon.",
+                "Walk through the Roman Forum ruins.",
+                "Relax in Piazza Navona's vibrant square.",
+                "Stroll through Trastevere's charming streets.",
+                "Explore the historic Castel Sant’Angelo.",
+                "Enjoy nature in Villa Borghese Gardens.",
+                "Climb the famous Spanish Steps.",
+                "Dine at Aroma with views of the Colosseum."
+            ]
+        },
+        {
+            "id": 5,
+            "city": "Tokyo",
+            "country": "Japan",
+            "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dG9reW98ZW58MHx8MHx8fDA%3D",
+            "description": "Tokyo is Japan's bustling capital, known for its mix of traditional culture and cutting-edge technology.",
+            "activities": [
+                "Experience  the bustling Shibuya Crossing.",
+                "Visit  the historic Senso-ji Temple.",
+                "See panoramic views from Tokyo Skytree.",
+                "Try fresh sushi at Tsukiji Outer Market.",
+                "Find tranquility at Meiji Shrine.",
+                "Explore Harajuku's trendy fashion scene.",
+                "Dive into anime in Akihabara district.",
+                "Walk around the Imperial Palace gardens.",
+                "Enjoy Odaiba's futuristic attractions.",
+                "Explore art and nightlife in Roppongi Hills.",
+                "Stroll through Shinjuku Gyoen National Garden.",
+                "Watch a surreal show at the Robot Restaurant."
+            ]
+        },
+        {
+            "id": 6,
+            "city": "New York",
+            "country": "USA",
+            "imageUrl": "https://images.unsplash.com/photo-1543716091-a840c05249ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bmV3JTIweW9yayUyMGNpdHl8ZW58MHx8MHx8fDA%3D",
+            "description": "New York City, known as 'The Big Apple', is famous for its skyline, cultural diversity, and landmarks like Times Square and Central Park.",
+            "activities": [
+                "Visit the Statue of Liberty.",
+                "Explore Central Park.",
+                "See a Broadway show.",
+                "Visit the Empire State Building.",
+                "Explore the American Museum of Natural History.",
+                "Walk through Times Square.",
+                "Visit The Metropolitan Museum of Art.",
+                "Check out the One World Observatory.",
+                "Stroll across the Brooklyn Bridge.",
+                "Shop in Soho.",
+                "Enjoy street food at various food trucks.",
+                "Experience the vibrant nightlife."
+            ]
+        }
+    ]
+}
