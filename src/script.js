@@ -2,7 +2,7 @@ let allDestinations = [];
 let displayedDestinations = []; 
 // Function to fetch destinations 
 function fetchDestinations() {
-    fetch('http://localhost:3000/destinations')
+    fetch('https://travel-itinerary-app.onrender.com/destinations')
         .then(response => response.json())
         .then(destinations => {
             allDestinations = destinations; // Store data of all destinations
