@@ -38,6 +38,6 @@ HTML, CSS , Fontawesome icons, GIT ,JS , Bootstap ,Render , JSON
 email :Melissakiptoo@gmail.com
 
 ### License
-LIcenced under the MT-licence of
+LIcenced under the MT-licence of https://github.com/MelissaK003/Travel-Made-Easier/blob/master/LICENSE
 
 Copyright (c) 2024 **Melissa Kiptoo**
