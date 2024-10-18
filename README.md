@@ -20,7 +20,7 @@ This travel planning application streamlines the process of discovering new dest
 * And you are all done
 
 ## Live server
-* You can view the web live on 
+* You can view the web live on https://melissak003.github.io/Travel-Made-Easier/
 
 ## Presentation link
 * You can view the my presenation on https://www.canva.com/design/DAGT2yUwWGM/o7E4DXom9Mp1KTwv38VPTw/view?utm_content=DAGT2yUwWGM&utm_campaign=designshare&utm_medium=link&utm_source=editor
